@@ -1,0 +1,7 @@
+<?php 
+
+symlink('/home/ethiopikacom/blog72/storage/app/public', '/home/ethiopikacom/public_html/storage');
+
+
+
+?>
